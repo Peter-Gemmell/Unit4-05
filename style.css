@@ -1,0 +1,15 @@
+body {
+}
+
+#table {
+  border:3px solid;
+  color: hotpink; 
+  padding:10px 28px;
+  }
+
+#head {
+  background-color: cornflowerblue;
+  color: black;
+  padding: 20px;
+  width: 300px;
+}
